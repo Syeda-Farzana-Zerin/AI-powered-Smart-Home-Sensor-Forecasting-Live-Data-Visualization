@@ -41,13 +41,6 @@ Given historical sensor measurements, the task is to predict the **next time-ste
 ├── datatest.txt
 ├── models/
 
-
-- `train.py` — trains and saves all ML and DL models  
-- Streamlit app — loads trained models and performs visualization and live prediction  
-- `models/` — stored models and metadata used during inference  
-
----
-
 ## 🧠 Model Training (`train.py`)
 
 The training script implements a **multi-output forecasting pipeline** using:

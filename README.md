@@ -74,44 +74,28 @@ Features
 Exploratory Data Analysis (EDA)
 
 Summary statistics and correlation analysis
-
 Time-series visualization
-
 Distribution and box plots
-
 Live streaming predictions
-
 Adjustable inference speed
-
 Real-time comparison of true vs predicted values
 
 Run the app
-bash
-Copy code
 streamlit run Smarthome_Sensor_Predictions_Live.py
+
 🛠️ Tools and Technologies
 Python
-
 Scikit-learn
-
 TensorFlow / Keras
-
 Pandas, NumPy
-
 Streamlit
-
 Matplotlib
 
 🎯 Why This Project Is Relevant
 This project demonstrates skills directly applicable to AI Engineer and Data Scientist roles, including:
 
 End-to-end AI system design
-
 Time-series forecasting
-
 Classical ML and deep learning
-
 Model lifecycle management
-
 Data visualization and communication
-

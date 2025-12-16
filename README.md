@@ -16,7 +16,6 @@ The project is structured to reflect real-world practice: models are trained off
 - Reproducible and deployment-oriented design  
 
 ---
-<img width="613" height="715" alt="image" src="https://github.com/user-attachments/assets/b6a98a22-5992-4232-9543-4cc5c0104340" />
 
 ## 📊 Data and Prediction Task
 
@@ -40,6 +39,8 @@ Given historical sensor measurements, the task is to predict the **next time-ste
 ├── datatraining.txt
 ├── datatest.txt
 ├── models/
+
+<img width="823" height="843" alt="image" src="https://github.com/user-attachments/assets/39ee4719-7ed0-41bc-a3ca-d3be56063372" />
 
 ## 🧠 Model Training (`train.py`)
 

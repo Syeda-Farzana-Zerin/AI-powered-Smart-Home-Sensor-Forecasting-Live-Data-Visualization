@@ -41,8 +41,6 @@ Given historical sensor measurements, the task is to predict the **next time-ste
 ├── datatest.txt
 ├── models/
 
-markdown
-Copy code
 
 - `train.py` — trains and saves all ML and DL models  
 - Streamlit app — loads trained models and performs visualization and live prediction  
@@ -65,14 +63,13 @@ Classical models use feature scaling and multi-output regression.
 The LSTM model uses a sliding window to capture temporal dependencies.
 
 ### Train the models
-```bash
 python train.py
+
 🎥 Streamlit Application
 The Streamlit app focuses on data understanding and live model behavior.
 
 Features
 Exploratory Data Analysis (EDA)
-
 Summary statistics and correlation analysis
 Time-series visualization
 Distribution and box plots
@@ -93,7 +90,6 @@ Matplotlib
 
 🎯 Why This Project Is Relevant
 This project demonstrates skills directly applicable to AI Engineer and Data Scientist roles, including:
-
 End-to-end AI system design
 Time-series forecasting
 Classical ML and deep learning

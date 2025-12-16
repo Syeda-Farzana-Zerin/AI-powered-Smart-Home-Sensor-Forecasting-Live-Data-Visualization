@@ -16,6 +16,7 @@ The project is structured to reflect real-world practice: models are trained off
 - Reproducible and deployment-oriented design  
 
 ---
+<img width="613" height="715" alt="image" src="https://github.com/user-attachments/assets/b6a98a22-5992-4232-9543-4cc5c0104340" />
 
 ## 📊 Data and Prediction Task
 

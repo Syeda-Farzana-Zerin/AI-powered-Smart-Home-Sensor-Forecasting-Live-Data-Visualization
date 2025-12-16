@@ -70,7 +70,8 @@ Live streaming predictions
 Adjustable inference speed
 Real-time comparison of true vs predicted values
 
-Run the app
+Run the app:
+
 streamlit run Smarthome_Sensor_Predictions_Live.py
 
 🛠️ Tools and Technologies
